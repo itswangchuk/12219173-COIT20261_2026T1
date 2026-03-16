@@ -18,5 +18,5 @@
    vi - text editor used to change configurattion file \
    vim - text editor used to change configuration file \
    nano - text editor used to change configuration file \
-   cat - to view the file \
+   cat - to view the file 
    
