@@ -9,14 +9,14 @@
 3. Screenshot of console showing IP Address \
 ![Console-Screenshot](Images/GNS-Intro-12219173-ipaddress.png) 
 
-4. Commands learned in this tutorial
-   cd - to change directory
-   cd .. - to go to previous directory
-   cd / - to move into root diorectory
-   ip address - to view ip address
-   ifconfig - to view the ip address
-   vi - text editor used to change configurattion file
-   vim - text editor used to change configuration file
-   nano - text editor used to change configuration file
-   cat - to view the file
+4. Commands learned in this tutorial \
+   cd - to change directory \
+   cd .. - to go to previous directory \
+   cd / - to move into root diorectory \
+   ip address - to view ip address \
+   ifconfig - to view the ip address \
+   vi - text editor used to change configurattion file \
+   vim - text editor used to change configuration file \
+   nano - text editor used to change configuration file \
+   cat - to view the file \
    
