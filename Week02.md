@@ -8,7 +8,7 @@
 2. Network Diagram \
 DIAGRAM
 
-3. IP Address of Hosts \
+3. IP Address of Hosts 
 
 Host 1 \
 ![Host-Screenshot](Images/Setting-IP-12219173-Host1.png) 
