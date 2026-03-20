@@ -10,7 +10,7 @@ DIAGRAM
 
 3. IP Address of Hosts \
 
-Host 1 \
+Host 1 
 
 Host 2 \
 The IP address are assigned manually from the configure menu in GNS3 by removing the # from some commands.\
