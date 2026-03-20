@@ -40,14 +40,14 @@ The IP assigned is fixed and the restart doesnt removed the IP
 
 3. Ping command (and output) when limiting the count, setting the data size and interval to non-default values.
 
-With Count Limit
+With Count Limit \
 ![Ping-Screenshot](Images/Ping-Basics-12219173-CountLimit.png)
 
-With Custom Data Size
+With Custom Data Size \
 ![Ping-Screenshot](Images/Ping-Basics-12219173-Size.png)
 
-With Custom Interval
-![Ping-Screenshot](Images/Ping-Basics-12219173-Interval.png)
+With Custom Interval \
+![Ping-Screenshot](Images/Ping-Basics-12219173-Intervel.png)
 
-Customized Ping using various custom paramaters
+Customized Ping using various custom paramaters \
 ![Ping-Screenshot](Images/Ping-Basics-12219173-All.png)
