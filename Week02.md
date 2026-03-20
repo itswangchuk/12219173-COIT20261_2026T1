@@ -15,8 +15,8 @@ The IP address are assigned manually from the configure menu in GNS3 by removing
 The IP assigned are not interupted by restart of the device.
 
 Host 3 \
-The IP is assigned using command (* ip address add <ipaddress>/<mask> dev eth0 *) \
-* ip address 10.1.1.4/24 dev eth0 *
+The IP is assigned using command ( *ip address add <ipaddress>/<mask> dev eth0* ) \
+*ip address 10.1.1.4/24 dev eth0*
 The IP assigned is removed upon restart.
 
 Host 4 \
