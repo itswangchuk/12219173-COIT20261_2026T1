@@ -16,7 +16,7 @@ Host 1 \
 Host 2 \
 ![Host-Screenshot](Images/Setting-IP-12219173-Host2.png) 
 The IP address are assigned manually from the configure menu in GNS3 by removing the # from some commands.\
-The IP assigned are not interupted by restart of the device. \
+The IP assigned are not interupted by restart of the device. 
 
 Host 3 \
 ![Host-Screenshot](Images/Setting-IP-12219173-Host3.png) 
