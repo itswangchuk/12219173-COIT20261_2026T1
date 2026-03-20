@@ -30,12 +30,13 @@ The IP is assigned via terminal. Open host 4 terminal and edit the configuration
 The IP assigned is fixed and the restart doesnt removed the IP
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
+
 ## Outputs
 
-1. Ping command output
+1. Ping command output \
 ![Ping-Screenshot](Images/Ping-Basics-12219173-Simple.png)
 
-2. Ping command and output to a wrong IP
+2. Ping command and output to a wrong IP \
 ![Ping-Screenshot](Images/Ping-Basics-12219173-Error.png)
 
 3. Ping command (and output) when limiting the count, setting the data size and interval to non-default values.
