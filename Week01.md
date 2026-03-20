@@ -1,4 +1,4 @@
-# Week01: Introduction to GNS3 Basics
+# Week 01: Introduction to GNS3 Basics
 ## Outputs
 1. GNS3 File \
 [GNS3-Basics](GNS3-Files/GNS3-Intro-12219173.gns3project) 
