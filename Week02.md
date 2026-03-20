@@ -28,3 +28,26 @@ Host 4 \
 ![Host-Screenshot](Images/Setting-IP-12219173-Host4.png) 
 The IP is assigned via terminal. Open host 4 terminal and edit the configuration file *interfaces* located in /etc/network directory.
 The IP assigned is fixed and the restart doesnt removed the IP
+
+## Task 2: Testing Network Connectivity and Delay with Ping
+## Outputs
+
+1. Ping command output
+![Ping-Screenshot](Images/Ping-Basics-12219173-Simple.png)
+
+2. Ping command and output to a wrong IP
+![Ping-Screenshot](Images/Ping-Basics-12219173-Error.png)
+
+3. Ping command (and output) when limiting the count, setting the data size and interval to non-default values.
+
+With Count Limit
+![Ping-Screenshot](Images/Ping-Basics-12219173-CountLimit.png)
+
+With Custom Data Size
+![Ping-Screenshot](Images/Ping-Basics-12219173-Size.png)
+
+With Custom Interval
+![Ping-Screenshot](Images/Ping-Basics-12219173-Interval.png)
+
+Customized Ping using various custom paramaters
+![Ping-Screenshot](Images/Ping-Basics-12219173-All.png)
