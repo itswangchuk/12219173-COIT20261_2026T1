@@ -8,9 +8,9 @@
 2. Network Diagram \
 ![Network-Screenshot](Images/Setting-IP-12219173-Network.png)
 
-3. IP Address of Hosts \
+3. IP Address of Hosts 
 
-**Host 1 and Host 2** 
+**Host 1 and Host 2** \
 The IP address for Host1 and Host2 are assigned manually from the configure menu in GNS3 by removing the # from some commands.\
 The IP assigned are not interupted by restart of the device.
 
