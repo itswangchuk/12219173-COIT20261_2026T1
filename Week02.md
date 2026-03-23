@@ -32,7 +32,7 @@ The IP Configuration gets erased upon restart of the linux host.
 
 The IP is assigned via terminal. Open host4 terminal and edit the configuration file *interfaces* located in /etc/network directory.
 Used text editor nano to edit the configuration file. \
-The IP assigned is fixed and the restart doesnt removed the IP. \
+The IP assigned is fixed and the restart doesnt removed the IP. 
 
 ![Host-Screenshot](Images/Setting-IP-12219173-Host4.png) 
 
