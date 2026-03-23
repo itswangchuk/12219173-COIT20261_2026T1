@@ -22,16 +22,20 @@ The IP assigned are not interupted by restart of the device.
 
 **Host 3** \
 
-The IP is assigned using command ( *ip address add <ipaddress>/<mask> dev eth0* ) \
+The IP for Host3 is assigned using command from terminal ( *ip address add <ipaddress>/<mask> dev eth0* ) \
 *#ip address 10.1.1.4/24 dev eth0* \
-The IP assigned is removed upon restart.\
+The IP Configuration gets erased upon restart of the linux host.
 
 ![Host-Screenshot](Images/Setting-IP-12219173-Host3.png) 
 
 **Host 4** \
+
+The IP is assigned via terminal. Open host4 terminal and edit the configuration file *interfaces* located in /etc/network directory.
+Used text editor nano to edit the configuration file. \
+The IP assigned is fixed and the restart doesnt removed the IP. \
+
 ![Host-Screenshot](Images/Setting-IP-12219173-Host4.png) 
-The IP is assigned via terminal. Open host 4 terminal and edit the configuration file *interfaces* located in /etc/network directory.
-The IP assigned is fixed and the restart doesnt removed the IP
+
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
 
