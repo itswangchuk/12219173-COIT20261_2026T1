@@ -11,5 +11,5 @@ Netcat Client and Netcat Server \
 ## Outputs
 
 PCAP File for Ping and Netcat Capture \
-![Ping-Screenshot](Images/Ping-Basics-12219173-Simple.png)
+![Ping-Screenshot](PCAP-Files/Host1_eth0_to_Switch1_Ethernet0.pcap)
 
