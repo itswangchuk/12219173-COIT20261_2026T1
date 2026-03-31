@@ -3,7 +3,7 @@
 ## Task 1: Simple Application Communications with Netcat
 ## Outputs
 Netcat Client and Netcat Server \
-![Network-Screenshot](Images/Setting-IP-12219173-Network.png)
+![Network-Screenshot](Images/Netcat-Basics-12219173-client-server.png)
 
 
 ## Task 2: Capturing Packets
