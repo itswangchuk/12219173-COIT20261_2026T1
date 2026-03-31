@@ -3,7 +3,7 @@
 ## Task 1: Simple Application Communications with Netcat
 ## Outputs
 Netcat Client and Netcat Server \
-![Network-Screenshot](Images/Netcat-Basics-12219173-client-server.png)
+![NetCat Screenshot-Screenshot](Images/Netcat-Basics-12219173-client-server.png)
 
 
 ## Task 2: Capturing Packets
@@ -11,5 +11,5 @@ Netcat Client and Netcat Server \
 ## Outputs
 
 PCAP File for Ping and Netcat Capture \
-![Ping-Screenshot](PCAP-Files/Host1_eth0_to_Switch1_Ethernet0.pcap)
+[Packet-Capture](PCAP-Files/Capture-Basics-12219173-ping-netcat.pcap)
 
