@@ -10,3 +10,6 @@
 
 3. Ports and Tags    
 ![Screenshot Ports and VLAN ID](Images/Vlan-Basics-12219173-Ports.png)   
+
+## Task 2: Setup VLANs on a Router
+## Outputs  
