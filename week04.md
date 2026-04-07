@@ -8,6 +8,12 @@
 2. Network Diagram
 ![Network-Screenshot](Images/View-Routes-12219173-network.png)
 
+3. Record of IP Routes
+![Routes-Screenshot](Images/View-Routes-12219173-host1-route.png) \
+![Routes-Screenshot](Images/View-Routes-12219173-host2-route.png) \
+![Routes-Screenshot](Images/View-Routes-12219173-router-route.png) \
+![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png) 
+
 ## Task 2: Capturing Packets
 
 ## Outputs
