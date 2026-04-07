@@ -34,7 +34,8 @@
 ![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png) \
 ![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)
 
-5. Route Table
+5. Route Table \
+
 FRR‑1
 | Destination | Next Node |
 |------------|-----------|
