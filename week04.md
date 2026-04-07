@@ -27,5 +27,9 @@
 2. Network Diagram demonstrating OSPF \
 ![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)
 
-3. Neigbour routers of FRR1
+3. Neigbour routers of FRR1 \
 ![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)
+
+4. routing table for two routers \
+![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png) \
+![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png) 
