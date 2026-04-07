@@ -10,4 +10,4 @@
 
 - [Week03 -The TCP and IP Protocols](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/48a155b29a146ba4363c87b771721113a43bca24/Week03.md)
 
-- [Week04 -Routing](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/48a155b29a146ba4363c87b771721113a43bca24/Week03.md)
+- [Week04 -Routing](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/39bc0f7478ff3ce8394bfbd2a4bdd051d50f909a/week04.md)
