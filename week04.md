@@ -26,3 +26,6 @@
 
 2. Network Diagram demonstrating OSPF \
 ![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)
+
+3. Neigbour routers of FRR1
+![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)
