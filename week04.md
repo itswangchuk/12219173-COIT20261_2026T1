@@ -76,9 +76,9 @@ FRR‑4
 | 10.10.2.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
 | 10.10.4.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
 
-6. Traceroute Command Output
-* Without stopping NETem
+6. Traceroute Command Output \
+* Without stopping NETem \
 ![Traceroute-A-Screenshot](Images/OSPF-Basics-12219173-network-traceroute.png)
 
-* Stopping NETem 1
+* Stopping NETem 1 \
 ![Traceroute-B-Screenshot](Images/OSPF-Basics-12219173-network-traceroute-linkdown.png)
