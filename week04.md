@@ -2,12 +2,11 @@
 
 ## Task 1: View Routing Tables 
 ## Outputs
-GNS3 Project file \
+1. GNS3 Project file \
 [View Route GNS3 File](GNS3-Files/View-Route-12219173.gns3project)
 
-
-
-![NetCat Screenshot-Screenshot](Images/Netcat-Basics-12219173-client-server.png)
+2. Network Diagram
+![Network-Screenshot](Images/View-Routes-12219173-network.png)
 
 ## Task 2: Capturing Packets
 
