@@ -12,7 +12,10 @@
 ![Routes-Screenshot](Images/View-Routes-12219173-host1-route.png) \
 ![Routes-Screenshot](Images/View-Routes-12219173-host2-route.png) \
 ![Routes-Screenshot](Images/View-Routes-12219173-router-route.png) \
-![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png) 
+![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png)
+
+4. Ping to other network
+![Ping-Screenshot](Images/View-Routes-12219173-ping.png)
 
 ## Task 2: Capturing Packets
 
