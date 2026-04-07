@@ -17,11 +17,11 @@
 4. Ping to other network \
 ![Ping-Screenshot](Images/View-Routes-12219173-ping.png)
 
-## Task 2: Capturing Packets
+## Task 2: Dynamic Routing with OSPF
 
 ## Outputs
 
-PCAP File for Ping and Netcat Capture \
-[Packet-Capture](PCAP-Files/Capture-Basics-12219173-ping-netcat.pcap)
+1. GNS3 File demonstrating OSPF
+[GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)
 
-
+![Ping-Screenshot](Images/View-Routes-12219173-ping.png)
