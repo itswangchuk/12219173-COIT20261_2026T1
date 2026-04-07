@@ -21,7 +21,8 @@
 
 ## Outputs
 
-1. GNS3 File demonstrating OSPF
+1. GNS3 File demonstrating OSPF \
 [GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)
 
-![Ping-Screenshot](Images/View-Routes-12219173-ping.png)
+2. Network Diagram demonstrating OSPF \
+![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)
