@@ -30,6 +30,48 @@
 3. Neigbour routers of FRR1 \
 ![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)
 
-4. routing table for two routers \
+4. Routing table for two routers \
 ![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png) \
-![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png) 
+![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)
+
+5. Route Table
+FRR‑1
+| Destination | Next Node |
+|------------|-----------|
+| 10.10.1.0/24 | Direct |
+| 10.10.2.0/24 | FRR‑2 |
+| 10.10.3.0/24 | FRR‑3 |
+| 10.10.4.0/24 | FRR‑2 |
+| 10.10.5.0/24 | FRR‑3 |
+| 10.10.6.0/24 | FRR‑2 or FRR‑3 → FRR‑4 |
+
+FRR‑2
+| Destination | Next Node |
+|------------|-----------|
+| 10.10.2.0/24 | Direct |
+| 10.10.4.0/24 | Direct |
+| 10.10.1.0/24 | FRR‑1 |
+| 10.10.3.0/24 | FRR‑1 or FRR‑3 |
+| 10.10.5.0/24 | FRR‑1 → FRR‑3 |
+| 10.10.6.0/24 | FRR‑1 → FRR‑3 → FRR‑4 |
+
+FRR‑3
+| Destination | Next Node |
+|------------|-----------|
+| 10.10.3.0/24 | Direct |
+| 10.10.5.0/24 | Direct |
+| 10.10.1.0/24 | FRR‑1 |
+| 10.10.2.0/24 | FRR‑1 or FRR‑2 |
+| 10.10.4.0/24 | FRR‑1 → FRR‑2 |
+| 10.10.6.0/24 | FRR‑4 |
+
+FRR‑4
+| Destination | Next Node |
+|------------|-----------|
+| 10.10.6.0/24 | Direct |
+| 10.10.3.0/24 | FRR‑3 |
+| 10.10.5.0/24 | FRR‑3 |
+| 10.10.1.0/24 | FRR‑3 → FRR‑1 |
+| 10.10.2.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
+| 10.10.4.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
+
