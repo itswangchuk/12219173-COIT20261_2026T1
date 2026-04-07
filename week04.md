@@ -2,8 +2,8 @@
 
 ## Task 1: View Routing Tables 
 ## Outputs
-1. GNS3 Project file   
-[View Route GNS3 File](GNS3-Files/View-Route-12219173.gns3project)
+1. GNS3 Project file      
+[View Route GNS3 File](GNS3-Files/View-Route-12219173.gns3project)   
 
 2. Network Diagram   
 ![Network-Screenshot](Images/View-Routes-12219173-network.png)
@@ -14,27 +14,27 @@
 ![Routes-Screenshot](Images/View-Routes-12219173-router-route.png)   
 ![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png)   
 
-4. Ping to other network    
-![Ping-Screenshot](Images/View-Routes-12219173-ping.png)
+4. Ping to other network       
+![Ping-Screenshot](Images/View-Routes-12219173-ping.png)   
 
 ## Task 2: Dynamic Routing with OSPF
 
 ## Outputs
 
-1. GNS3 File demonstrating OSPF   
-[GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)
+1. GNS3 File demonstrating OSPF    
+[GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)   
 
-2. Network Diagram demonstrating OSPF    
-![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)
+2. Network Diagram demonstrating OSPF     
+![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)   
 
-3. Neigbour routers of FRR1    
-![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)
+3. Neigbour routers of FRR1     
+![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)   
 
-4. Routing table for two routers    
-![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png)    
-![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)  
+4. Routing table for two routers       
+![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png)     
+![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)    
 
-5. Routing Table Summary  
+5. Routing Table Summary    
 
 FRR‑1
 | Destination | Next Node |
@@ -76,9 +76,9 @@ FRR‑4
 | 10.10.2.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
 | 10.10.4.0/24 | FRR‑3 → FRR‑1 → FRR‑2 |
 
-6. Traceroute Command Output 
-* Without stopping NETem    
-![Traceroute-A-Screenshot](Images/OSPF-Basics-12219173-network-traceroute.png)
+6. Traceroute Command Output    
+* Without stopping NETem      
+![Traceroute-A-Screenshot](Images/OSPF-Basics-12219173-network-traceroute.png)   
 
-* Stopping NETem 1    
-![Traceroute-B-Screenshot](Images/OSPF-Basics-12219173-network-traceroute-linkdown.png)
+* Stopping NETem 1     
+![Traceroute-B-Screenshot](Images/OSPF-Basics-12219173-network-traceroute-linkdown.png)   
