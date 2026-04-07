@@ -9,3 +9,5 @@
 - [Week02 -Encapsulation and Decapsulation](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/9a0781315568b3d420ab434459cbf5f66219c835/Week02.md)
 
 - [Week03 -The TCP and IP Protocols](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/48a155b29a146ba4363c87b771721113a43bca24/Week03.md)
+
+- [Week04 -Routing](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/48a155b29a146ba4363c87b771721113a43bca24/Week03.md)
