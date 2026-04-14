@@ -2,11 +2,9 @@
 
 ## Task 1: Resolving IP Addresses to Hardware Addresses
 ## Outputs    
-1. GNS3 VLAN File       
-[VLAN GNS3 File](GNS3-Files/Vlan-Basics-12219173.gns3project)   
 
-2. Network Diagram    
-![Screenshot Network VLAN](Images/Vlan-Basics-12219173-Network.png)   
+1. Host1 ARP    
+![Screenshot Network VLAN](Images/ARP-Basics-studentid-HostA-Table.png)   
 
 
 ## Task 2: Default Gateways
