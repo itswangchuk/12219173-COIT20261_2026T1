@@ -13,3 +13,5 @@
 - [Week04 -Routing](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/4778b16920a88dccbe44ef6bc896861dee16f5c2/Week04.md)
 
 - [Week05 -Switching and VLAN](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/b81f07eda09e1cec249dd545d7d3b8a83e1d6db5/Week05.md)
+
+- [Week05 -Switching and VLAN](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/b81f07eda09e1cec249dd545d7d3b8a83e1d6db5/Week05.md)
