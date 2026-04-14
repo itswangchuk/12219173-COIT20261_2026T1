@@ -13,3 +13,11 @@
 
 ## Task 2: Setup VLANs on a Router
 ## Outputs  
+1. GNS3 VLAN File       
+[VLAN GNS3 File](GNS3-Files/Vlan-Router-12219173.gns3project)   
+
+2. Network Diagram    
+![Screenshot Network VLAN](Images/Vlan-Router-12219173-netwrok.png)   
+
+3. Ports and Tags    
+![Screenshot Ports and VLAN ID](Images/Vlan-Router-12219173-ports.png)   
