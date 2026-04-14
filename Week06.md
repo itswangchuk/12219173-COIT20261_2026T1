@@ -4,7 +4,7 @@
 ## Outputs    
 
 1. Host1 ARP    
-![Screenshot Network VLAN](Images/ARP-Basics-studentid-HostA-Table.png)   
+![Screenshot Network VLAN](Images/ARP-Basics-12219173-Host1-Table.png)   
 
 
 ## Task 2: Default Gateways
