@@ -14,4 +14,4 @@
 
 - [Week05 -Switching and VLAN](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/b81f07eda09e1cec249dd545d7d3b8a83e1d6db5/Week05.md)
 
-- [Week06 -Address Resolution and Management](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/10f6743a6100e670ec05e404773772116af5a588/Week06.md))
+- [Week06 -Address Resolution and Management](https://github.com/itswangchuk/12219173-COIT20261_2026T1/blob/10f6743a6100e670ec05e404773772116af5a588/Week06.md)
