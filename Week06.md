@@ -48,3 +48,8 @@ Route Details
 4. Ping to Other Network
 
 ![Screenshot Network VLAN](Images/Default-Gateway-12219173-Ping.png)   
+
+*Commands Used    
+$ip neigh show   
+$ip route add default via IPAddress dev eth0   
+$ip route add 3.3.3.0/24 via 1.1.1.1 dev eth0*
