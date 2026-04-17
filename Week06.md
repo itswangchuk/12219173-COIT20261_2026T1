@@ -5,12 +5,13 @@
 
 1. Host1 ARP    
 ![Screenshot ARP ](Images/ARP-Basics-12219173-Host1-Table.png)    
+   
 *ARP (Address Resolution Protocol) is the protocol a device uses to map an IPv4 address to a MAC address on a local network. It operates at the boundary of Layer 2 (MAC) and Layer 3 (IP) and is essential for delivering packets on Ethernet networks.    
 When a device wants to send an IP packet to another device on the same LAN, it must know the destination MAC address.    
 ARP solves this by:    
-- Asking: “Who has this IP?” (broadcast)     
-- The owner of that IP replies with: “I have it — here is my MAC.” (unicast)     
-- The sender stores the mapping in its ARP cache for future use*      
+Asking: “Who has this IP?” (broadcast)     
+The owner of that IP replies with: “I have it — here is my MAC.” (unicast)     
+The sender stores the mapping in its ARP cache for future use*      
 
 ## Task 2: Default Gateways
 ## Outputs  
