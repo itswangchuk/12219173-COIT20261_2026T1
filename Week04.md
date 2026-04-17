@@ -92,10 +92,10 @@ FRR‑4
 ![Traceroute-B-Screenshot](Images/OSPF-Basics-12219173-network-traceroute-linkdown.png)
 
     
-*Commands Learned   
-$show ip ospf neighbor
-$show ip ospf route
-$show ip route
-$ip route show
+*Commands Learned      
+$show ip ospf neighbor     
+$show ip ospf route     
+$show ip route     
+$ip route show      
 $sysctl net.ipv4.ip_forward=1*
 
