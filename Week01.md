@@ -9,7 +9,7 @@
 
 3. Screenshot of console showing IP Address
 
- The following Snapshot shows the details of host related to its network. It shows IP Address , Mac Address, Subnet Mask and Gateways which are essential for Network Communication
+*The following Snapshot shows the details of host related to its network. It shows IP Address , Mac Address, Subnet Mask and Gateways which are essential for Network Communication
 ![Console-Screenshot](Images/GNS-Intro-12219173-ipaddress.png)      
 
 5. Commands learned in this tutorial      
