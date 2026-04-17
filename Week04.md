@@ -3,12 +3,12 @@
 ## Task 1: View Routing Tables 
 ## Outputs
 1. GNS3 Project file      
-[View Route GNS3 File](GNS3-Files/View-Route-12219173.gns3project)   
+[View Route GNS3 File](GNS3-Files/View-Route-12219173.gns3project)
 
-2. Network Diagram   
+3. Network Diagram   
 ![Network-Screenshot](Images/View-Routes-12219173-network.png)
 
-3. Record of IP Routes    
+4. Record of IP Routes    
 *An IP route is an entry in a routing table that tells a device:   
 Destination network -where the packet wants to go   
 Next hop -which router to send it to   
@@ -28,19 +28,20 @@ Outgoing interface -which port to use*
 ## Outputs
 
 1. GNS3 File demonstrating OSPF    
-[GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)   
-
-2. Network Diagram demonstrating OSPF     
+*OSPF (Open Shortest Path First) is a link‑state routing protocol used inside an autonomous system to find the shortest and most efficient path between networks. It uses Dijkstra’s SPF algorithm to compute routes and maintains a full view of the network topology, which gives it fast convergence and high scalability*    
+[GNS3-Routing-OSPF](GNS3-Files/OSPF-Basics-12219173-Template.gns3project)
+ 
+3. Network Diagram demonstrating OSPF     
 ![Network-Screenshot](Images/OSPF-Basics-12219173-network.png)   
 
-3. Neigbour routers of FRR1     
+4. Neigbour routers of FRR1     
 ![OSPF-Route-Screenshot](Images/OSPF-Basics-12219173-neigbhor-router.png)   
 
-4. Routing table for two routers       
+5. Routing table for two routers       
 ![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR2.png)     
 ![OSPF-Route-Table-Screenshot](Images/OSPF-Basics-12219173-routing-table-FFR3.png)    
 
-5. Routing Table Summary    
+6. Routing Table Summary    
 
 FRR‑1
 | Destination | Next Node |
