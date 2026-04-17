@@ -40,5 +40,6 @@ Route Details
 | Router2  | 10.1.1.0/24      | 10.1.3.73          | eth1 |    
 
 
-4. Ping to Other Network    
+4. Ping to Other Network
+
 ![Screenshot Network VLAN](Images/Default-Gateway-12219173-Ping.png)   
