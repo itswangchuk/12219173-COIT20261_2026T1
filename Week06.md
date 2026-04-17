@@ -15,8 +15,9 @@
 2. Network Diagram    
 ![Screenshot Network VLAN](Images/Vlan-Router-12219173-netwrok.png)   
 
-3. Ports and Tags
-Interface Details    
+3. Ports and Tags    
+Interface Details
+
 | Device   | Interface | IP Address     | Subnet Mask     | Network     |
 |----------|-----------|----------------|------------------|-------------|
 | Host1    | eth0      | 10.1.1.73      | 255.255.255.0    | 10.1.1.0/24 |
