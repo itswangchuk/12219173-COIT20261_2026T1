@@ -28,8 +28,8 @@
 $ovs-vsctl show   
 $ovs-vsctl set port eth1 tag=10    
 $ovs-vsctl set port eth0 trunks=10,20    
-ovs-vsctl set port eth0 trunks=[]    
-ip link add link eth0 name eth0.10 type vlan id 10     
-ip address add 1.2.3.4/24 dev eth0.10*    
+$ovs-vsctl set port eth0 trunks=[]    
+$ip link add link eth0 name eth0.10 type vlan id 10     
+$ip address add 1.2.3.4/24 dev eth0.10*    
 
 
