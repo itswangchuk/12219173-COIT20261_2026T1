@@ -7,10 +7,12 @@
 2. Screenshot of Network      
 ![Network-Screenshot](Images/GNS-Intro-12219173-network.png)      
 
-3. Screenshot of console showing IP Address      
+3. Screenshot of console showing IP Address
+
+ The following Snapshot shows the details of host related to its network. It shows IP Address , Mac Address, Subnet Mask and Gateways which are essential for Network Communication
 ![Console-Screenshot](Images/GNS-Intro-12219173-ipaddress.png)      
 
-4. Commands learned in this tutorial      
+5. Commands learned in this tutorial      
    cd - to change directory      
    cd .. - to go to previous directory      
    cd / - to move into root diorectory      
