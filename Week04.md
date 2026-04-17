@@ -8,13 +8,18 @@
 2. Network Diagram   
 ![Network-Screenshot](Images/View-Routes-12219173-network.png)
 
-3. Record of IP Routes   
+3. Record of IP Routes
+*An IP route is an entry in a routing table that tells a device:   
+Destination network -where the packet wants to go   
+Next hop -which router to send it to   
+Outgoing interface -which port to use*
+
 ![Routes-Screenshot](Images/View-Routes-12219173-host1-route.png)   
 ![Routes-Screenshot](Images/View-Routes-12219173-host2-route.png)   
 ![Routes-Screenshot](Images/View-Routes-12219173-router-route.png)   
 ![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png)   
 
-4. Ping to other network       
+5. Ping to other network       
 ![Ping-Screenshot](Images/View-Routes-12219173-ping.png)   
 
 ## Task 2: Dynamic Routing with OSPF
