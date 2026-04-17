@@ -19,7 +19,8 @@ Outgoing interface -which port to use*
 ![Routes-Screenshot](Images/View-Routes-12219173-router-route.png)   
 ![Routes-Screenshot](Images/View-Routes-12219173-host3-route.png)   
 
-5. Ping to other network       
+4. Ping to other network
+*To test the route of the network, ping command is used*    
 ![Ping-Screenshot](Images/View-Routes-12219173-ping.png)   
 
 ## Task 2: Dynamic Routing with OSPF
