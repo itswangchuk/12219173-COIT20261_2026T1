@@ -13,9 +13,9 @@ Asking: “Who has this IP?” (broadcast)
 The owner of that IP replies with: “I have it — here is my MAC.” (unicast)     
 The sender stores the mapping in its ARP cache for future use*      
 
-## Task 2: Default Gateways
-## Outputs  
-1. GNS3 VLAN File       
+## Task 2: Default Gateways   
+## Outputs   
+1. GNS3 VLAN File        
 [VLAN GNS3 File](GNS3-Files/Default-Gateway-12219173.gns3project)   
 
 2. Network Diagram    
