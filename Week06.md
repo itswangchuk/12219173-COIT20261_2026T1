@@ -37,4 +37,8 @@ Route Details
 | Router1  | 10.1.2.0/24      | 10.1.3.74          | eth1 |
 | Router2  | 10.1.2.0/24      | directly connected | eth0 |
 | Router2  | 10.1.3.0/24      | directly connected | eth1 |
-| Router2  | 10.1.1.0/24      | 10.1.3.73          | eth1 |
+| Router2  | 10.1.1.0/24      | 10.1.3.73          | eth1 |    
+
+
+4. Ping to Other Network    
+![Screenshot Network VLAN](Images/Default-Gateway-12219173-Ping.png)   
