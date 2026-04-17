@@ -41,8 +41,8 @@ The IP assigned is fixed and the restart doesnt removed the IP.*
 
 ## Task 2: Testing Network Connectivity and Delay with Ping
 
-## Outputs
-
+## Outputs    
+*Ping Command is widely used for Testing Network Connection. Ping is used with different options like restricting hop count, setting ttl, data size, etc.*
 1. Ping command output    
 ![Ping-Screenshot](Images/Ping-Basics-12219173-Simple.png)
 
