@@ -8,7 +8,7 @@
 2. Network Diagram   
 ![Network-Screenshot](Images/View-Routes-12219173-network.png)
 
-3. Record of IP Routes
+3. Record of IP Routes    
 *An IP route is an entry in a routing table that tells a device:   
 Destination network -where the packet wants to go   
 Next hop -which router to send it to   
