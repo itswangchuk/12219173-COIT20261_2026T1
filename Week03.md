@@ -7,8 +7,8 @@ Netcat Client and Netcat Server
 
 *is a lightweight, command‑line networking utility used to read and write data across network connections using TCP or UDP.    
 Commands used
-nc -l -p <portnumber>
-nc <IP Address> <portnumber>*
+$nc -l -p portnumber
+$nc IPAddress portnumber*
 
 ## Task 2: Capturing Packets
 
